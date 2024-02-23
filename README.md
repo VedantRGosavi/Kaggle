@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle Projects
+This Repo if for all Kaggle-based Projects.
